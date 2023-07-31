@@ -112,6 +112,10 @@ p {
       fill: steelblue;
     }
 
+    .bar {
+      fill: orange;
+    }
+
     .bar.us-population {
       fill: orange;
     }
