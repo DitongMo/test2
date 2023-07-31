@@ -44,7 +44,7 @@ svg.append("g")
 .call(d3.axisLeft(y));
 
 // Bars
-svg.selectAll("bar")
+svg.selectAll("bar2")
 .data(data)
 .enter()
 .append("rect")
